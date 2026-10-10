@@ -12,3 +12,8 @@ productId refers to a product owned by the Catalog Service. There is currently n
 Related Repository
 
 Catalog Service: [<CATALOG-REPOSITORY-LINK>](https://github.com/c0nor-S/CI-CD-CatalogService)
+
+Lab 1 - Branch : Lab1-Service-Boundaries
+Lab 2 - Branch : Lab2-JPA-H2A
+Lab 3 - Branch : Lab3-OpenFeign-Config
+Lab 4 - Branch : Lab4-SQL-Fiddle
