@@ -17,3 +17,7 @@ Lab 1 - Branch : Lab1-Service-Boundaries
 Lab 2 - Branch : Lab2-JPA-H2A
 Lab 3 - Branch : Lab3-OpenFeign-Config
 Lab 4 - Branch : Lab4-SQL-Fiddle
+
+SQL & Normalisation
+- Final db<>fiddle session: https://dbfiddle.uk/T7P385bU
+This Fiddle Contains The Completed SQL Queries And The Written Answers As SQL Comments.
